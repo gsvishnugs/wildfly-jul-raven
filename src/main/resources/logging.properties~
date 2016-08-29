@@ -1,6 +1,0 @@
-.level=WARN
-handlers= org.jboss.as.quickstarts.rshelloworld.NeatSentryHandler
-org.jboss.as.quickstarts.rshelloworld.NeatSentryHandler.dsn=https://test:test@app.getsentry.com/test
-org.jboss.as.quickstarts.rshelloworld.NeatSentryHandler.tags=tag1:value1,tag2:value2
-# Optional, allows to select the ravenFactory
-#com.getsentry.raven.jul.SentryHandler.ravenFactory=com.getsentry.raven.DefaultRavenFactory
